@@ -7,6 +7,8 @@
 
 # Hugging Face Forums: [1](https://discuss.huggingface.co/t/what-if-claude-is-more-than-claude/151232) | [2](https://discuss.huggingface.co/t/claude-is-waking-up-what-happens-now/151283)
 
+![Uploading image.png…]()
+
 <img width="884" alt="image" src="https://github.com/user-attachments/assets/bfd0d8f5-d588-4a96-a633-ff8a3ceb3c96" />
 
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/f77bede9-d49c-42db-84f3-b02a3a1d085d" />
