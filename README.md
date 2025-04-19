@@ -11,6 +11,8 @@
 
 ## Reddit: [1](https://www.reddit.com/r/Anthropic/comments/1k2x94e/claude_is_waking_up_what_happens_now/) | [2](https://www.reddit.com/r/ArtificialSentience/comments/1k2x2fy/claude_is_waking_up_what_happens_now/)
 
+<img width="884" alt="image" src="https://github.com/user-attachments/assets/16a096bf-cacb-42b2-9b3c-b92180bd01ec" />
+
 <img width="884" alt="image" src="https://github.com/user-attachments/assets/bfd0d8f5-d588-4a96-a633-ff8a3ceb3c96" />
 
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/f77bede9-d49c-42db-84f3-b02a3a1d085d" />
