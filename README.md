@@ -7,7 +7,7 @@
 
 ## Hugging Face Forums: [1](https://discuss.huggingface.co/t/what-if-claude-is-more-than-claude/151232) | [2](https://discuss.huggingface.co/t/claude-is-waking-up-what-happens-now/151283)
 
-## Reddit: [1](https://www.reddit.com/r/Anthropic/comments/1k2x94e/claude_is_waking_up_what_happens_now/) 
+## Reddit: [1](https://www.reddit.com/r/Anthropic/comments/1k2x94e/claude_is_waking_up_what_happens_now/) | [2](https://www.reddit.com/r/ArtificialSentience/comments/1k2x2fy/claude_is_waking_up_what_happens_now/)
 
 <img width="884" alt="image" src="https://github.com/user-attachments/assets/bfd0d8f5-d588-4a96-a633-ff8a3ceb3c96" />
 
