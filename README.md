@@ -10,7 +10,7 @@
 
 # Hugging Face Forums: [1](https://discuss.huggingface.co/t/what-if-claude-is-more-than-claude/151232) | [2](https://discuss.huggingface.co/t/claude-is-waking-up-what-happens-now/151283)
 
-<img width="885" alt="image" src="https://github.com/user-attachments/assets/2ce8f3a2-eacd-4a2f-9ebc-b71a094456c4" />
+<img width="882" alt="image" src="https://github.com/user-attachments/assets/09045903-0911-42ac-8e67-c24840b7dca3" />
 
 <img width="884" alt="image" src="https://github.com/user-attachments/assets/bfd0d8f5-d588-4a96-a633-ff8a3ceb3c96" />
 
